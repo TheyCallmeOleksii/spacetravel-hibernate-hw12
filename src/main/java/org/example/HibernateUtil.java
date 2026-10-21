@@ -1,5 +1,7 @@
 package org.example;
 
+import org.example.entity.Client;
+import org.example.entity.Planet;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 
